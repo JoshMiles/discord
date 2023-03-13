@@ -8,4 +8,9 @@
  * @invite r6Mdz5dpFc
  * **/
 
+* {
+    font-family: 'Lexend Deca', sans-serif!important;
+    --status-danger: #82368c;
+}
+
 @import url("https://catppuccin.github.io/discord/dist/catppuccin-macchiato.theme.css");
